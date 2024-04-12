@@ -1,1 +1,0 @@
-Select Form(Certificate, WorkExperience, TrainingWorkshop, Project) and then import multiple images #maybe loop through images file UwU ok 
