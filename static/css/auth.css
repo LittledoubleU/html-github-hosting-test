@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(0, 0, 0);
+    color: white;
+    overflow: hidden;
+}
+
+.alert-danger {
+    --bs-alert-color: #ffffff;
+    --bs-alert-bg: #ff1d32;
+    --bs-alert-border-color: #ff001b;
+    --bs-alert-link-color: #e22136;
+}
+
+.mb-sign-in{
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+}
